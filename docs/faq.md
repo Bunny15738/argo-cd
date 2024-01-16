@@ -1,5 +1,7 @@
 # FAQ
 
+## Why isNaN(result) giving error "interface conversion: interface {} is []float64, not float64"?
+
 ## I've deleted/corrupted my repo and can't delete my app.
 
 Argo CD can't delete an app if it cannot generate manifests. You need to either:
